@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MetersToInches</string>
+    <string name="action_settings">Settings</string>
+    <string name="hintText">Enter in Meters</string>
+    <string name="metersText">Meters Image</string>
+    <string name="buttonText">Convert</string>
+</resources>
