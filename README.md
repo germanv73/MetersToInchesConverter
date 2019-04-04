@@ -1,2 +1,2 @@
 # MetersToInchesConverter
-This is a simple Java app that converts input meters into inches.
+This is a Android app in Java that converts user input meters into inches.
